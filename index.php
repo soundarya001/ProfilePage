@@ -16,7 +16,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Soundarya P 7th sem CSE
+<div id="center-set"> - By Soundarya P
 <div id="signup">
 <div id="signup-st">
 <div align="center">
