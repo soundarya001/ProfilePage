@@ -50,6 +50,12 @@ echo ' <div id="reg-head-fail" class="headrg">Registration Failed! <br> Error: '
 <td class="t-1"><div align="left" id="tb-name">Last&nbsp;Name:</div></td>
 <td><input type="text" name="lname" id="tb-box"/></td>
 </tr>
+ <tr>
+<td class="t-1"><div align="left" id="tb-name">DOB:</div></td>
+<td><input type="text" name="lname" id="tb-box"/></td>
+</tr>
+ 
+ 
 <tr>
 <td class="t-1"><div align="left" id="tb-name">Email:</div></td>
 <td><input type="text" id="tb-box" name="address" /></td>
